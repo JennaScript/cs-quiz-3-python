@@ -1,4 +1,4 @@
-# Quiz 2: Question 2
+# Quiz 3: Question 2
 
 sports = ["basketball", "softball", "football", "baseball", "track"]
 
