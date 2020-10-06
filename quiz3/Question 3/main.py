@@ -9,7 +9,7 @@ hats = { "snapback": 10,
 hats["weird top hat"] = 1
 
 # Part 3
-hats["snapback"] = 10 + 1
+hats["snapback"] += 1
 
 # Part 4
 hats.pop("weird top hat")
